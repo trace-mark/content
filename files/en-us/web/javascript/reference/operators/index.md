@@ -87,7 +87,7 @@ A unary operation is an operation with only one operand.
   - : The `void` operator discards an expression's return value.
 - {{JSxRef("Operators/typeof", "typeof")}}
   - : The `typeof` operator determines the type of a given object.
-- {{JSxRef("Operators/Unary_plus", "+")}}
+- {{JSxRef("Operators/Unary_plus", "+")}} (Plus)
   - : The unary plus operator converts its operand to Number type.
 - {{JSxRef("Operators/Unary_negation", "-")}}
   - : The unary negation operator converts its operand to Number type and then negates it.
